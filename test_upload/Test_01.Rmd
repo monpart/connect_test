@@ -16,7 +16,7 @@ Private repo
 
 Second try at private repo
 
-And another times 2
+And another times three
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
